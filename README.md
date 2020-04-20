@@ -1,2 +1,4 @@
 # WC_AT
-Waist Circumference and Adipose Tissue
+Adipose Tissue size prediction based on Waist using simple Linear Regression.
+
+https://waist-adiposetissue-api.herokuapp.com/
